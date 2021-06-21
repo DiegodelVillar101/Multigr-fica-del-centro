@@ -172,17 +172,21 @@ body{
     /* padding-top: 10vh; */
     margin: 5vh 0;
 }
+.heading{
+    font-size: 2em;
+    color: #fff;
+}
 .services li{
     font-size: 1.15em;
     font-weight: 100;
 }
 
-/* SECTIONS */
+/* SECTION */
 .about .contentbx, .services .contentbx, .services1 .contentbx, .services2 .contentbx, .services3 .contentbx{
     /* background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(47,9,121,1) 30%, rgba(0,212,255,1) 100%); */
     /* background: linear-gradient(180deg, rgb(11, 56, 0) 0%, rgb(5, 82, 50) 30%, rgba(0,212,255,1) 100%); */
     background: linear-gradient(180deg, rgba(0,46,93,1) 0%, rgba(0,46,93,1) 22%, rgba(0,81,163,1) 62%, rgba(40,108,178,1) 74%, rgba(131,170,211,1) 93%, rgba(255,255,255,1) 100%);
-    padding: 100px;
+    padding: 50px;
     width: 50%;
     border-top:2px solid rgb(201, 231, 255);
     /* border-radius: 5em; */
