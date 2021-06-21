@@ -444,6 +444,10 @@ input:checked ~ .details{
     left: initial;
     right: -100%;
 }
+.footer-container{
+    display: flex;
+    justify-items: space-evenly;
+}
 
 .footer2{
     margin: 0;
