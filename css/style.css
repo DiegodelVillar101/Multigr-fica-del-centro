@@ -283,7 +283,9 @@ body{
     background: #262626;
     overflow: hidden;
     margin: 1.2em 0;
-    
+}
+.card:hover{
+    box-shadow: 0 0 10px  #ebeaec, 0 0 40px  #0d1ada, 0 0 80px  #8bcbff ;
 }
 input, .toggle-art1, .toggle-art2{
     position: absolute;
